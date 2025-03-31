@@ -1,16 +1,26 @@
 # Deep_Learning_Project
-
+## Members
+- Vindhya Jain
+- Shruti Chaudhary
+- Neermita Bhattacharya
+- 
 ## 📂 Contents  
- 
+- Code Files
+- Final Report
 
 ### 💻 Code Files  
+- MFCC_features_RF.ipynb
+- MLP + CNN.ipynb
+- MLP.ipynb
+- Spectrogram_CNN.ipynb
+- Wav2vec2_for_SER.ipynb
 
 
-### 📄 Reports  
--
+### 📄 Report  
+- Deep_Learning_Project_Group_13_Report.pdf
 
 
 ## 📌 Overview  
-This repository contains code and reports for 
+This repository contains code and reports for Deep Learning CSL4020 Final Project - Speech Emotion Recognition Methods
 ## 🚀 Usage  
-Clone this repository and open the respective Jupyter notebooks (`.ipynb` files) to explore the implementations.  Link -
+Clone this repository and open the respective Jupyter notebooks (`.ipynb` files) to explore the implementations.  Link - https://github.com/Neermita18/Speech-Emotion-Recognition-Methods
