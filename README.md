@@ -1,4 +1,4 @@
-# Deep_Learning_Project
+# Speech Emotion Recognition Methods
 ## Members
 - Vindhya Jain
 - Shruti Chaudhary
