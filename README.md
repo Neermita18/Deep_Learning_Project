@@ -3,6 +3,11 @@
 - Vindhya Jain
 - Shruti Chaudhary
 - Neermita Bhattacharya
+  
+## Contributions
+- Vindhya - CNN
+- Shruti - MLP, MLP + CNN
+- Neermita - Random Forest + Transformers
 
 ## 📂 Contents  
 - Code Files
